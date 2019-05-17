@@ -1,0 +1,64 @@
+
+#content {
+    margin-top: 50px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.participate-modal-btn {
+    float: right;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.add-guest-btn {
+    float: right;
+    margin-top: 10px
+}
+
+.remove-guest {
+    color: red; font-size: 40px; float: right
+}
+
+.form-errors {
+    color: red;
+}
+
+.search-result  {
+    position: absolute;
+    width: 100%;
+    max-width: 300px;
+    cursor: pointer;
+    overflow-y: auto;
+    max-height: 300px;
+    box-sizing: border-box;
+    z-index: 1001;
+}
+
+
+.search-customer-result {
+    position: absolute;
+    width: 100%;
+    max-width: 300px;
+    cursor: pointer;
+    overflow-y: auto;
+    max-height: 300px;
+    box-sizing: border-box;
+    z-index: 1001;
+}
+
+.search-list:hover {
+    background-color: #f1f1f1;
+}
+
+.search-customer-list:hover {
+    background-color: #f1f1f1;
+}
+
+
+
+
+
+
+
+

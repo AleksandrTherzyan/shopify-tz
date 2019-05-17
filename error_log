@@ -1,0 +1,5 @@
+[16-May-2019 06:00:02 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /home/ssvibxwn/shopify-tz/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[16-May-2019 06:00:11 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /home/ssvibxwn/shopify-tz/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[16-May-2019 06:03:08 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /home/ssvibxwn/shopify-tz/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[16-May-2019 06:05:45 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /home/ssvibxwn/shopify-tz/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[16-May-2019 06:06:18 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /home/ssvibxwn/shopify-tz/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
